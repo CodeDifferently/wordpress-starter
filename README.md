@@ -14,8 +14,4 @@
 
 ### Part 3 - Viewing the Code
 1. Open the `wordpress-starter` folder in a code editor.
-*
-*
-
-
-###
+2. Ensure that the content in the `wp-config-sample.php` file matches the details from the configuration in `Part 2`.
